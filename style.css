@@ -1,0 +1,46 @@
+header {
+  background-color: lightblue;
+  color: white;
+  padding: 5px;
+  text-align: center;
+}
+
+nav {
+  background-color: #F2F4F6;
+  float: left;
+  height: 250px;
+  line-height: 30px;
+  padding: 5px;
+  width: 250px;
+}
+
+section {
+  float: left;
+  padding: 10px;
+  width: 800px;
+  font-size: large;
+}
+
+h2 {
+  text-align: center;
+}
+
+.buttons .prev {
+  float: left;
+}
+
+.buttons .next {
+  float: right;
+}
+
+footer {
+  background-color: lightblue;
+  clear: both;
+  color: white;
+  padding: 5px;
+  text-align: center;
+}
+
+ol li {
+  margin-bottom: 20px;
+}
